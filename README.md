@@ -1,3 +1,6 @@
+This project uses ReactJs for a front-end and ExpressJs for Backend , if you are new with these javascript frameworks please read instructions bellow on how to install and use react Applications.
+if not please run npm install on your project for the package folder.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
